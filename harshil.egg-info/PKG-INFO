@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: harshil
+Version: 0.0.0
+Author: harshiluamryai
+Requires-Dist: pandas
+Requires-Dist: numpay
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: requires-dist
