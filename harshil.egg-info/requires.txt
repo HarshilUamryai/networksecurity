@@ -3,3 +3,4 @@ numpay
 pymongo
 certifi
 dotenv
+scikit-learn

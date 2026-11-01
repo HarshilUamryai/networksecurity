@@ -7,5 +7,6 @@ Requires-Dist: numpay
 Requires-Dist: pymongo
 Requires-Dist: certifi
 Requires-Dist: dotenv
+Requires-Dist: scikit-learn
 Dynamic: author
 Dynamic: requires-dist

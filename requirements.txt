@@ -1,6 +1,7 @@
 pandas
-numpay
+numpy
 pymongo
 certifi
-dotenv
+python-dotenv
+scikit-learn
 -e .

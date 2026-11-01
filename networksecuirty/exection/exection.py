@@ -2,9 +2,10 @@ import logging
 import os 
 import sys
 from networksecuirty.logging.Logger import logging
-class execution:
+class execution(Exception):
     #this class is used to handle exceptions and log them to a file
     def __init__(self,error_message,error_dealits:sys):
+        super().__init__(error_message)
         #this method is used to initialize the class and set the error message, error line and file name
         self.error_message = error_message
         #this method is used to get the error line and file name from the sys module
