@@ -6,5 +6,6 @@ Requires-Dist: pandas
 Requires-Dist: numpay
 Requires-Dist: pymongo
 Requires-Dist: certifi
+Requires-Dist: dotenv
 Dynamic: author
 Dynamic: requires-dist

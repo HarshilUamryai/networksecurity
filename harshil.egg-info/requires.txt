@@ -2,3 +2,4 @@ pandas
 numpay
 pymongo
 certifi
+dotenv
